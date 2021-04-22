@@ -1,0 +1,53 @@
+.Container{
+	width:100%;
+	height:auto;
+	margin-top:20px;
+}
+.Part1{
+display:inline-block;
+float:left;
+width:20%;
+height:200px;
+background-color:red;
+}
+.Part2{
+	display:inline-block;
+float:left;
+width:50%;
+height:auto;
+border:1px solid black;
+}
+.Part3{
+	display:inline-block;
+float:left;
+width:28%;
+height:auto;
+background-color:yellow;
+margin-left:10px;
+}
+.insidePart1{
+	width:60%;
+	height:80%;
+	background-color:white;
+	margin:auto;
+	margin-top:20px;
+	font-size:20px;
+	color:blue;
+	border:2px solid black;
+	border-radius:10px;
+
+}
+a{
+	cursor:pointer;
+
+}
+.choose{
+	color:red;
+}
+form{
+	width:50%;
+	padding:20px;
+	border:1px solid black;
+	margin-left:24%;
+	margin-top:10px;
+}

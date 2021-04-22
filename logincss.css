@@ -1,0 +1,55 @@
+.Forms{
+	width:90%;
+	margin:10px auto;
+	height:450px;
+	color:white;
+
+}
+.form1{
+	float:left;
+	width:48%;
+	background-color:red;
+	height:100%;
+}
+.form2{
+	width:48%;
+	float:left;
+	height:100%;
+	background-color:blue;
+}
+b{
+	display:none;
+}
+form input{
+	height:30px;
+	width:70%;
+	display:block;
+	margin-top:10px;
+	margin-left: 15%;
+	border-radius:10px;
+}
+.footer{
+	clear:both;
+}
+.Forms h2 {
+	text-align:center;
+	font-family:verdana;
+	padding:25px;
+	font-size:25px;
+}
+.Forms button {
+	margin-left:40%;
+	padding:10px;
+	margin-top: 30px;
+	font-family:verdana;
+	font-size:15px;
+}
+.ErrorHandler{
+	margin-top:20px;
+    margin-left:20%;
+	width:40%;
+	padding:40px;
+		background-color:white;
+		border-radius:20px;
+		border:2px solid black;
+}

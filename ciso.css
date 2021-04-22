@@ -1,0 +1,6 @@
+.dv{
+	display:inline-block;
+	float:left; 
+	padding:10px;
+	max-width:100px;
+}
